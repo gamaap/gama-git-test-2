@@ -8,5 +8,10 @@
 <body>
   <h1>Hello GIT</h1>
   <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur quidem eum, magnam voluptatem, consectetur itaque assumenda, quos reiciendis minus facilis asperiores. Similique illo ullam explicabo debitis optio eum officiis adipisci.</p>
+  <ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+  </ul>
 </body>
 </html>
