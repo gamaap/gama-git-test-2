@@ -8,5 +8,8 @@
 <body>
   <h1>Hello Git</h1>
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, est?</p>
+  <ul>
+    <li>LOLLL</li>
+  </ul>
 </body>
 </html>
