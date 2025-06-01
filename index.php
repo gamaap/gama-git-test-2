@@ -11,5 +11,8 @@
   ?>
   <h1><?= $greeting . " " . "Everybody" ?></h1>
   <p>Lorem ipsum dolor sit amet.</p>
+  <ul>
+    <li>this is list</li>
+  </ul>
 </body>
 </html>
