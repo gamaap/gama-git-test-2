@@ -7,8 +7,9 @@
 </head>
 <body>
   <?php 
-    $greeting = "Hello"
+    $greeting = "Hello";
   ?>
   <h1><?= $greeting . " " . "Everybody" ?></h1>
+  <p>Lorem ipsum dolor sit amet.</p>
 </body>
 </html>
